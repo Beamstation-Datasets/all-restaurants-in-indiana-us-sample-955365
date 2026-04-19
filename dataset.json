@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "All restaurant listings across the state of Indiana. Filtered by the Restaurants category group, this statewide export includes verified business profiles, review analytics, competitive benchmarks, and contact details for every active listing. Refreshed weekly.",
   "config_name": "All Restaurants in Indiana, US",
-  "export_job_id": "11d0b787-2479-4c0f-82ca-6d8e996b9ff5",
+  "export_job_id": "60738f51-b256-4dcf-ac3d-d9f991d2fc69",
   "github_org": "Beamstation-Datasets",
   "id_short": 955365,
   "location_name": "Indiana",
   "location_type": "state",
   "repo_name": "all-restaurants-in-indiana-us-sample-955365",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/955365/beamstation_955365_restaurants-us-in_SAMPLE_DIST.csv",
-  "sample_pct": 6.95,
+  "sample_pct": 7.06,
   "sample_records": 1000,
-  "sample_sha256": "ff3bfef77928ada1c2284fda03948698bd47fa903e4733310cd1a1318282a073",
-  "sample_size_bytes": 2840905,
-  "total_records": 14392,
-  "updated_at": "2026-04-09T18:08:54.211433+00:00"
+  "sample_sha256": "7ee1cd869bf0bd6859b7b5cee1f67252d942a604a236f093c82337e545972ffe",
+  "sample_size_bytes": 2487647,
+  "total_records": 14161,
+  "updated_at": "2026-04-16T21:31:51.912290+00:00"
 }
