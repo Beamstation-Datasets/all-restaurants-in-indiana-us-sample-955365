@@ -9,9 +9,9 @@
 | Dataset ID | `955365` |
 | Location | Indiana |
 | Category | Restaurants |
-| Full dataset size | 14,392 records |
-| Free sample size | 1,000 records (6.95%) |
-| Last export | 2026-04-09T18:08:54.211433+00:00 |
+| Full dataset size | 14,161 records |
+| Free sample size | 1,000 records (7.06%) |
+| Last export | 2026-04-16T21:31:51.912290+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-indiana-us-sample-955365/releases/download/sample-latest/beamstation_955365_restaurants-us-in_SAMPLE_DIST.csv) |
 
 ## What is in this sample
