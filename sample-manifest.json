@@ -1,12 +1,12 @@
 {
-  "export_job_id": "60738f51-b256-4dcf-ac3d-d9f991d2fc69",
+  "export_job_id": "ea602420-dcea-4fe2-a297-3e1d3461e250",
   "id_short": 955365,
-  "published_at": "2026-04-19T19:48:39Z",
+  "published_at": "2026-04-24T07:03:52Z",
   "repo_name": "all-restaurants-in-indiana-us-sample-955365",
   "sample_asset_name": "beamstation_955365_restaurants-us-in_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/955365/beamstation_955365_restaurants-us-in_SAMPLE_DIST.csv",
   "sample_records": 1000,
-  "sample_sha256": "7ee1cd869bf0bd6859b7b5cee1f67252d942a604a236f093c82337e545972ffe",
-  "sample_size_bytes": 2487647,
-  "total_records": 14161
+  "sample_sha256": "e95f945d897c85e77efc231325cfa552d9770afc95be5662c8fab89a124773db",
+  "sample_size_bytes": 2973792,
+  "total_records": 12569
 }
